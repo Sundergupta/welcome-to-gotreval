@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(
+    to top,
+    #00c3ff,
+    #ff0800
+    
+);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+div{
+    color: rgb(0, 0, 0);
+}
+.sun{
+    color: #ff0800;
+    border-radius: 20px;
+}
+.der{
+  color: #00c3ff;
+  border-radius: 20px;
+  margin-top: 5px;
+}
+.abc{
+    border-radius: 30px;
+    border-color: #ff0800;
+    margin-top: 20px;
+}
+p{
+    font-style: solid;
+    font-family: 'Courier New', Courier, monospace;
+}
